@@ -9,9 +9,11 @@
 - `git push` - Pushes all local commits to GitHub and creates a new Pull Request for review (if a Pull Reqeust already exists, this command will just update the existing Pull Request with the new commits you pushed)
 - `git pull` - Pulls all changes from the repo to the local machine
   - NOTE: To avoid confusing issues, please make sure you're on the *main* branch when you run this command
+- `git branch branchNameHere` - Creates a new branch named branchNameHere
+  - NOTE: This command will only _create_ the new branch. The following command is how you actually switch to that branch.
+- `git checkout branchNameHere` - Switches from the current branch to branchNameHere
 - `git checkout -B branchNameHere` - Creates a new branch named branchNameHere and switches to it
   - NOTE: This creates the new branch off of the _current_ branch. For our purposes please make sure you're on the *main* branch before running this command
-- `git checkout branchNameHere` - Switches from the current branch to branchNameHere
 
 ## General Hints
 - To keep things simple and clean for now, always make new branches off of the main/master branch
