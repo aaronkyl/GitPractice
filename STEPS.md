@@ -2,7 +2,7 @@
 
 Please complete all steps below, using the hints in HINTS.md as needed. Good luck!
 
- -	Pull any recent changes from the repo to your local machine using whatever command is used for that
+ -	Pull any recent changes from the repo to your local machine using whatever command is used for that (make sure you're on the *main* branch when you do this)
  -	Create a new branch, name it "victoria_AaronFile"
  -	Add a new file called Aaron.py
  -	Put a print statment in the new file
