@@ -1,5 +1,7 @@
 # Steps
 
+VICTORIA - I've removed the requirement that you have me approve your Pull Requests before you can merge them. I realized you'd be stuck sitting there waiting for me to log on and do it, so I'm going to instead have you PRETEND I've reviewed your code before you merge each of your PRs. For each "I will approve the Pull Request" step below, go ahead and approve your own Pull Request (you may need to look up how to do that online since we didn't cover that yet). Good luck! I know you'll figure this all out with a little practice and Googling!
+
 Please complete all steps below, using the hints in HINTS.md as needed. Good luck!
 
  -	Pull any recent changes from the repo to your local machine using whatever command is used for that (make sure you're on the *main* branch when you do this)
